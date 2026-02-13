@@ -19,12 +19,15 @@ and SOC-relevant identity monitoring in a modern cloud environment.
 - Logging: Entra ID Sign-in Logs and Audit Logs
 - Environment Type: Lab / Non-production
 
-## SOC Relevance
-This project mirrors real SOC workflows by focusing on:
+SOC Relevance
+This project mirrors real SOC workflows by establishing the identity controls
+and logging foundations used for:
+
 - Identity-based attack detection
 - Authentication failures and sign-in analysis
 - Privilege escalation via role assignments
 - Audit trails for user and access changes
+
 
 ## Tools Used
 - Microsoft Azure
