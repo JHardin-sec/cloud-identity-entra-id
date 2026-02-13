@@ -6,7 +6,7 @@
 - Scope: Tenant-level IAM + Azure RBAC
 
 ## Users Created
-- Alice IT – IT Analyst (configured)
+- Alice IT – IT Analyst (configured and authenticated)
 - Bob HR – HR Analyst (created, not yet assigned)
 - Michael Finance – Finance Manager (created, not yet assigned)
 
